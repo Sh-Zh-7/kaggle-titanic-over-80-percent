@@ -8,6 +8,8 @@ A lot of people start their data scientist career through kaggle's "Hello World"
 
 Before you start your reading journey, here is one important thing you need to remember: directly copy other's result without thinking is shameful. You'd better try by yourself.
 
+By the way, welcome to contribute! If you find any issue, please open an issue that we can discuss together!
+
 
 
 ## Project structure
@@ -50,7 +52,7 @@ Next I'd like to introduce the standard machine learning procedure for myself:
 
 The procedure is clearly shown by the upper image. Now let me explain how to follow this procedure:
 
-1. Execute eda.py:
+1. **Execute eda.py**:
 
 ```bash
 python eda.py
@@ -58,8 +60,8 @@ python eda.py
 
 ​	you will see the data features are already convert into markdown and png files in the ./analysis folder.
 
-2. Do feature engineering. Which is saved in main.py.
- 3. Execute search_params.py:
+2. **Do feature engineering. Which is saved in main.py**.
+3. **Execute search_params.py**:
 
 ```bash
 python search_params.py
@@ -67,7 +69,7 @@ python search_params.py
 
 ​	you will get the best meta models and base model after ensembling.
 
-4. Execute main.py:
+4. **Execute main.py**:
 
 ```bash
 python main.py
@@ -75,7 +77,7 @@ python main.py
 
 ​	you will see the machine learning result. And if you're not satisfied with this result. You can go back to step 2 to do further feature engineering.
 
-5. Submit your result in kaggle. See more details on kaggle's tutorial. Remember your submission file is **result.csv**
+5. **Submit your result in kaggle. See more details on kaggle's tutorial. Remember your submission file is **result.csv****
 
 ![result](./img/result.png)
 
