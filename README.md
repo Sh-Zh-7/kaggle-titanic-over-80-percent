@@ -58,8 +58,8 @@ python eda.py
 
 ​	you will see the data features are already convert into markdown and png files in the ./analysis folder.
 
-	2. Do feature engineering. Which is saved in main.py.
- 	3. Execute search_params.py:
+2. Do feature engineering. Which is saved in main.py.
+ 3. Execute search_params.py:
 
 ```bash
 python search_params.py
@@ -67,7 +67,7 @@ python search_params.py
 
 ​	you will get the best meta models and base model after ensembling.
 
-	4. Execute main.py:
+4. Execute main.py:
 
 ```bash
 python main.py
@@ -75,7 +75,7 @@ python main.py
 
 ​	you will see the machine learning result. And if you're not satisfied with this result. You can go back to step 2 to do further feature engineering.
 
-	5. Submit your result in kaggle. See more details on kaggle's tutorial. Remember your submission file is **result.csv**
+5. Submit your result in kaggle. See more details on kaggle's tutorial. Remember your submission file is **result.csv**
 
 ![result](./img/result.png)
 
