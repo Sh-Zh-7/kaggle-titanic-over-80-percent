@@ -99,14 +99,14 @@ There are a lot of things you can do for this project. For instance:
 
 ## Reference
 
-[1].Titanic Data Science Solutions from Manav Sehgal:
+**[1]**.Titanic Data Science Solutions from Manav Sehgal:
 
  https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python
 
-[2].Introduction to Ensembling/Stacking in Python from Anisotropic:
+**[2]**.Introduction to Ensembling/Stacking in Python from Anisotropic:
 
  https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python
 
-[3]. Titanic - Advanced Feature Engineering Tutorial from Gunes Evitan: 
+**[3]**. Titanic - Advanced Feature Engineering Tutorial from Gunes Evitan: 
 
 https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial/comments
