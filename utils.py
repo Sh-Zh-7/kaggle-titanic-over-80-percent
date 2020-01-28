@@ -49,6 +49,7 @@ def GetDataSet(filename: str):
     return df_train_set, df_test_set, df_all
 
 
+# Wrong, there will be data leakage
 def ConcatDF(train_set, test_set):
     """
     Concatenate train set and test set,
