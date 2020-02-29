@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![titanic](./img/titanic.png)
+![titanic](./assets/titanic.png)
 
 A lot of people start their data scientist career through kaggle's "Hello World" level competition——Titanic. By reading notebooks from others, they can simply get a very high rank in leader board. But the notebook is only for presentation. When we are doing machine learning engineer, how can we orgnize our project. This repo is not only a tutorial, but also a template for similar machine learning works. (Notice I didn't use any magic feature that was mentioned by former competitors.)
 
@@ -14,7 +14,7 @@ By the way, welcome to contribute! If you find any issue, please open an issue t
 
 ## Project structure
 
-![project](./img/project.png)
+![project](./assets/project.png)
 
 Let me explain some folders and files in this project:
 
@@ -48,7 +48,7 @@ When you're done working on the project, deactivate the virtual environment with
 
 Next I'd like to introduce the standard machine learning procedure for myself:
 
-![](./img/ml_procedure.png)
+![](./assets/ml_procedure.png)
 
 The procedure is clearly shown by the upper image. Now let me explain how to follow this procedure:
 
@@ -79,7 +79,7 @@ python main.py
 
 5. **Submit your result in kaggle. See more details on kaggle's tutorial. Remember your submission file is **result.csv****
 
-![result](./img/result.png)
+![result](./assets/result.png)
 
 (P.S. you may find that in my rf_params_list.json file, there are no parameters that allow you to search. This is because the cv result don't actually behalf the test set. It's well known that competitions like this is a so-called overfitting problems. You can do whatever to improve your LB score without considering the bahavior in the reality. If you want to get a high rank in this competition, just keep this file.)
 
